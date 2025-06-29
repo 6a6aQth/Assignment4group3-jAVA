@@ -1,3 +1,0 @@
-interface Electric {
-    boolean isElectric();
-}

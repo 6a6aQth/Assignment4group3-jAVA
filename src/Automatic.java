@@ -1,3 +1,0 @@
-interface Automatic {
-    boolean isAutomatic();
-}
